@@ -1,7 +1,6 @@
 +++
 date = 2021-03-15T04:00:00Z
 description = ""
-draft = true
 image = ""
 title = "Demo"
 
