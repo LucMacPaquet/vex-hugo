@@ -15,4 +15,5 @@ fields:
   name: description
   label: description
 pages:
+- exampleSite/content/french/blog/demo.md
 - exampleSite/content/french/blog/test.md
